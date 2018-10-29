@@ -6,3 +6,10 @@ DRS x7 tablet GPS works without any configuration, and many other GPS models wil
 Version 18.04 Based version is also available at https://drive.google.com/open?id=10onIlImmK_rm5vmCONVCYMK2xdYvNNCN
 Rugged OS Linux is a reflavor of Xubuntu Linux 
 Version 18.04 Was built on a DRS X7 Tablet computer 
+
+
+Onboard is enabled to make installation possible.
+
+GPSD and Foxtrot GPS are installed to have a working GPS solution off the Live USB 
+
+The Steam package was added for Gaming purposes.
