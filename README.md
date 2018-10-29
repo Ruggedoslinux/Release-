@@ -4,3 +4,5 @@ Xubuntu 18.10 based ISO can be downloaded from https://drive.google.com/drive/fo
 DRS x7 tablet GPS works without any configuration, and many other GPS models will work off the live USB/DVD without further configuration on most computers which support Linux.
 
 Version 18.04 Based version is also available at https://drive.google.com/open?id=10onIlImmK_rm5vmCONVCYMK2xdYvNNCN
+Rugged OS Linux is a reflavor of Xubuntu Linux 
+Version 18.04 Was built on a DRS X7 Tablet computer 
